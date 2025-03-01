@@ -1,17 +1,8 @@
 # Guidelines For UI & UX 
 # UI/UX Design Guidelines
 
-![UI/UX Banner](https://via.placeholder.com/800x200.png?text=UI/UX+Design+Guidelines)
 
 Welcome to the **UI/UX Design Guidelines** — a comprehensive blueprint for crafting intuitive, accessible, and visually appealing interfaces. Built with simplicity, scalability, and user-centricity in mind, these guidelines ensure a consistent and professional experience across all modules.
-
----
-
-## Badges
-
-[![Consistency](https://img.shields.io/badge/Principle-Consistency-blue.svg)](https://github.com)  
-[![Accessibility](https://img.shields.io/badge/Feature-Accessibility-green.svg)](https://github.com)  
-[![Responsive](https://img.shields.io/badge/Design-Responsive-orange.svg)](https://github.com)  
 
 ---
 
