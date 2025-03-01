@@ -96,6 +96,9 @@ Optimize data presentation:
 - **Accessibility**: Keyboard and screen reader friendly.
 - **Dropdowns**: Uniform styling with shadow/padding.
 - **Prevention**: Inline validation to catch errors early.
+- **Multiselect Inputs**: Standardize across modules as per the Homework Module, ensuring clear selection indicators and easy removal.
+- **Code Dropdowns**: Display a name or brief description along side codes for better clarity, making selection easier without requiring users to memorize codes.
+- **Field Grouping**: Organize related input fields into logical groups for better readability and a structured user experience.
 
 ### 🎛 Buttons and Actions
 - **Hierarchy**: Color-code primary vs. secondary actions.
