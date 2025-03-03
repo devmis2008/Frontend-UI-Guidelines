@@ -76,7 +76,7 @@ The foundation of great UI/UX starts here:
 Optimize data presentation:
 - `"Info" Column` → Integrate into Action Button.
 - `"Completion Timeline"` → Merge "Assigned Date" + "Due Date".
-- `"Submission Timeline"` → Combine "Submission Date" + "Submitted".
+- `"Submission Status"` → Combine "Submission Date" + "Submitted".
 - `"Checked Status"` → Merge "Checked Date" + "Checked".
 - `"User Details"` → Combine "User ID" + "Name".
 
@@ -90,6 +90,7 @@ Optimize data presentation:
 - **Multiselect Inputs**: Standardize across modules as per the Homework Module, ensuring clear selection indicators and easy removal.
 - **Code Dropdowns**: Display a name or brief description along side codes for better clarity, making selection easier without requiring users to memorize codes.
 - **Field Grouping**: Organize related input fields into logical groups for better readability and a structured user experience.
+- **Description Input:** Limit descriptions to 250 characters, with a real-time character count displayed as the user types
 
 ### 🎛 Buttons and Actions
 - **Hierarchy**: Color-code primary vs. secondary actions.
